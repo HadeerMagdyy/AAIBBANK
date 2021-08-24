@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:600&display=swap');
+@import url('https://kit.fontawesome.com/a81368914c.js');
+*{
+	
+}
+body{
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	overflow-y: scroll;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.Container{
+   
+    border-style: solid;
+    border-bottom: none;
+}
+Button{
+    margin: 2px;
+}
